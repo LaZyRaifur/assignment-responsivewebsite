@@ -1,0 +1,35 @@
+.btn-style{
+    border: 0;
+    border-radius: 10px;
+    height: 50px;
+    width: auto;
+    background-color: rgba(137, 207, 57, 0.856);
+    color: white;
+}
+.img-style{
+    border: 0;
+    border-radius: 15px;
+    background-color: rgb(231, 229, 225);
+    margin: 15px;
+    height: 327px;
+    
+    text-align: center;
+
+}
+.radius{
+    border-radius: 15px;
+}
+.footer-img{
+    width:50%;
+}
+.txt-style{
+    font-family: 'Bebas Neue', cursive;
+}
+.bg-color{
+    background-color: rgb(252, 241, 235);
+}
+@media (max-width:668px){
+    .img-style{
+        text-align: center;
+    }
+}
